@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+哈哈，我是kermitLiu，一个Java和算法的爱好者，喜欢技术，爱看文档，喜欢帮助他人。
+
 <!--
 **lsqtongxin/lsqtongxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
