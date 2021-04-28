@@ -1,18 +1,14 @@
-### Hi there 👋
+### Hi there 👋I am [KermitLiu](http://blog.liushiqiang.net) 
 
 哈哈，我是kermitLiu，一个Java和算法的爱好者，喜欢技术，爱看文档，喜欢帮助他人。
 
-<!--
-**lsqtongxin/lsqtongxin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img src="https://github-readme-stats-mrdulin.vercel.app/api?username=lsqtongxin&show_icons=true&hide_border=true&include_all_commits=true" align="right">
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+**Where to find me**
+
+- [Email](lsqtongxin@qq.com)
+
+Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button. 
+
