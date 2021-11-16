@@ -12,3 +12,10 @@
 
 Find out more of my awesome projects below, or subscribe me by clicking the "Follow" button. 
 
+
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lsqtongxin&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lsqtongxin&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=lsqtongxin&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=lsqtongxin&theme=github)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=lsqtongxin&theme=github)
